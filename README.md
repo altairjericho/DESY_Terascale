@@ -1,2 +1,2 @@
 # DESY_Terascale
-Machine Learning Challenge at DESY school
+Notebook with description and saved networks used by INSIGHTS team during the Machine Learning Challenge at DESY school
